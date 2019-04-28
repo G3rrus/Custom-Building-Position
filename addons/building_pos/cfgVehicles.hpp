@@ -4,7 +4,7 @@ class CfgVehicles {
 		displayName = "Building Position";
 		scope = 2;
 		scopeArsenal = 0;
-		model = "\buildingPos.p3d"; // not yet right path
+		model = "\building_pos\buildingPos.p3d";
 		editorCategory = "EdCat_Structures_Altis";
 		editorSubcategory = "EdSubcat_Military";
 	};

@@ -3,6 +3,7 @@ class CfgVehicles {
 	class Land_G4rrus_BuildingPos_F: Strategic {
 		displayName = "Building Position";
 		scope = 2;
+		scopeCurator = 2;
 		scopeArsenal = 0;
 		model = "\building_pos\buildingPos.p3d";
 		icon = "iconObject_circle";

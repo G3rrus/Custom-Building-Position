@@ -6,7 +6,7 @@ class CfgPatches {
 		requiredVersion = 1.82;
 		requiredAddons[] = {"A3_Structures_F_Mil"};
 		authors[] = {"G4rrus","Mallow"};
-		authorUrl = "https://github.com/G3rrus";
+		authorUrl = "https://github.com/G3rrus/Custom-Building-Position";
 		version = "1.0.0";
 		versionStr = "1.0.0";
 		license = "https://www.bohemia.net/community/licenses/arma-public-license-share-alike";

@@ -5,6 +5,7 @@ class CfgVehicles {
 		scope = 2;
 		scopeArsenal = 0;
 		model = "\building_pos\buildingPos.p3d";
+		icon = "iconObject_circle";
 		editorCategory = "EdCat_Structures_Altis";
 		editorSubcategory = "EdSubcat_Military";
 	};
